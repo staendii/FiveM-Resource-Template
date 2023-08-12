@@ -10,15 +10,5 @@ client_scripts {
 }
 
 server_scripts {
-    "config/sv_config.lua",
     "server/*.lua"
-}
-
-ui_page "html/index.html"
-
-files {
-    "html/images/*.png",
-    "html/*.css",
-    "html/*.js",
-    "html/*.html"
 }
